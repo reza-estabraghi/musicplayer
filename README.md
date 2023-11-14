@@ -9,7 +9,7 @@
 
 - [Demo Project](https://reza-estabraghi.github.io/musicplayer/)
 
-- Developed by Mohammadreza Estabraghi and [Amirreza Kokabizadeh](https://github.com/amir-ko)
+- Developed by Mohammadreza Estabraghi and [Amirreza Kokabi](https://github.com/amir-ko)
 
 - Created - 2023-Nov-14
 
